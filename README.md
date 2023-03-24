@@ -107,7 +107,7 @@ resources :hero_powers, only:[:create]
 Development for this application has been completed 
 
 ## Author and License
-- Author: [Chris Wamae](github.com/chris-wamae)
+- Author: [Chris Wamae](https://github.com/chris-wamae)
 - License: This application is covered under the MIT license
 
  
