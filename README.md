@@ -1,5 +1,7 @@
 # PHASE-4-WEEK-2-CODE-CHALLENGE-PIZZAS
 This is an api for storing superheroe's names,hero names and the powers they have.
+This application has been deployed on Heroku and is available through the following link:
+https://intense-sands-75856.herokuapp.com
 
 # Application Behaviour(BDD)
 The client using the application should be able to: 
@@ -88,7 +90,8 @@ resources :hero_powers, only:[:create]
 
 3. Hero_powersController
     - has create method that creates a new hero_power or returns appropriate error
-    
+
+
 
 
 
