@@ -1,4 +1,4 @@
-# PHASE-4-WEEK-2-CODE-CHALLENGE-PIZZAS
+# PHASE-4-WEEK-2-CODE-CHALLENGE-SUPERHEROES
 This is an api for storing superheroe's names,hero names and the powers they have.
 This application has been deployed on Render and is available through the following link:
 https://superheroes-code-challenge-wamae.onrender.com/
